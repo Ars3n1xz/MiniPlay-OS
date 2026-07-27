@@ -1,1 +1,13 @@
-
+{
+  "version": "1.0",
+  "os_update_url": "https://raw.githubusercontent.com/Ars3n1xz/MiniPlay-OS/main/updates/firmware.bin",
+  "games": [
+    {
+      "id": "pong01",
+      "name": "Retro Pong",
+      "author": "MiniPlay_Offical",
+      "size_kb": 120,
+      "url": "https://raw.githubusercontent.com/Ars3n1xz/MiniPlay-OS/main/store/games/pong.bin"
+    }
+  ]
+}
